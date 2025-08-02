@@ -7,8 +7,7 @@ July 31, 2025
 Explore US Bikeshare Data
 
 ### Description
-This project allows users to explore data related to bike share systems in three major US cities: **Chicago, New York City, and Washington**.  
-The program is run via the command line and uses Python and the pandas library to read and analyze bikeshare data based on user input.  
+This project allows users to explore data related to bike share systems in three major US cities: **Chicago, New York City, and Washington**.    
 Users can filter the data by city, month, and day of the week, and receive useful statistics such as:
 - Most frequent times of travel
 - Most popular stations and trips
