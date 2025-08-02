@@ -15,6 +15,7 @@ Users can filter the data by city, month, and day of the week, and receive usefu
 - User demographics (gender, birth year)
 
 ### Files used
+
 - `bikeshare.py`: The main Python file containing the logic of the program.
 - `chicago.csv`: Raw bikeshare data for the city of Chicago.
 - `new_york_city.csv`: Raw bikeshare data for New York City.
